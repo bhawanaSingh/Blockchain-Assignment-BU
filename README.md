@@ -21,4 +21,4 @@ Follow the steps to run the program:
 7. MetaMask will trigger a popup which indicate the gas fee for deployment of this ERC20 contract on the Goreli test network.
 8. Click on confirm option.
 9. Once you confirm it start incdicating the status of your deplyed contract.
-10. Now click on the deployed contract and view it on the block explorer. Here you can see that ERC20 tokenS with name bhawana is created. 
+10. Now click on the deployed contract and view it on the block explorer. Here you can see that 10,00,000 ERC20 tokenS with name bhawana (BH) is created. 
