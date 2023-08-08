@@ -25,3 +25,5 @@ Follow the steps to run the program:
 8. Click on confirm option.
 9. Once you confirm it start incdicating the status of your deplyed contract.
 10. Now click on the deployed contract and view it on the block explorer. Here you can see that 10,00,000 ERC20 tokenS with name bhawana (BH) is created.
+
+Different ERC20 available on : docs.openzeppelin.com/contracts
